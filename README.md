@@ -1,5 +1,5 @@
 # Friday Night Funkin' - RL Engine
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+RL Engine [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) fork focuses on being modular, fast and compatible with Psych Engine mods
 
 ## Installation:
 
@@ -37,7 +37,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 * MaliciousBunny - Video for the Final Update.
 _____________________________________
 
-# Features
+# Psych Engine Features
 
 ## Attractive animated dialogue boxes:
 
