@@ -1,7 +1,7 @@
 # Friday Night Funkin' - RL Engine
 RL Engine [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) fork focuses on being modular, fast and compatible with Psych Engine mods. 
 
-**RL Engine uses Clang++ as its main compiler instead of G++**
+**RL Engine uses Clang++ as its main compiler instead of g++**
 ## Installation:
 
 Refer to [the Build Instructions](./BUILDING.md)
